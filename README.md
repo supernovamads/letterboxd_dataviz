@@ -1,2 +1,2 @@
 # letterboxd_dataviz
-Playing with my own letterboxd profile
+Showcasing some of my data visualization skills in matplotlib and pandas
