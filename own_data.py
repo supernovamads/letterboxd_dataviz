@@ -10,11 +10,11 @@ import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import requests
 import numpy as np
+import json
 
-watchlist = pd.read_csv('madisonsmith126/watchlist.csv',sep=',')
-watched  = pd.read_csv('madisonsmith126/watched.csv',sep=',')
-ratings = pd.read_csv('madisonsmith126/ratings.csv',sep=',')
-
+watchlist = pd.read_csv('madisonsmith1262022/watchlist.csv',sep=',')
+watched  = pd.read_csv('madisonsmith1262022/watched.csv',sep=',')
+ratings = pd.read_csv('madisonsmith1262022/ratings.csv',sep=',')
 
 # director,country,genres = [],[],[]
 # for k in ratings['Letterboxd URI']:
@@ -36,10 +36,45 @@ ratings = pd.read_csv('madisonsmith126/ratings.csv',sep=',')
 # ratings['director'] = director
 # ratings['country'] = country
 # ratings['genres'] = genres
-ratings.to_csv('madisonsmith126/ratings.csv',sep=',',index=False)
-by_year = ratings.groupby('Year')
-for year,info in by_year:
-    mean_rating = np.mean(info['Rating'])
-    max_rating = np.max(info['Rating'])
-    min_rating = np.min(info['Rating'])
-    plt.errorbar(year,mean_rating,yerr=[[mean_rating-min_rating],[max_rating-mean_rating]],fmt='o')
+
+def my_hottest_takes(movie):
+    movie_req = requests.get(movie['Letterboxd URI'])
+    print(movie['Name'])
+    movie_page = movie_req.text
+    movie_soup = BeautifulSoup(movie_page,'lxml')
+    rating = movie_soup.find("span", attrs={"class": "rating"})
+    rating_class = rating['class'][-1]
+    rating_val = int(rating_class.split('-')[-1])
+    smaller_soup = movie_soup.find('script',attrs={'type':'application/ld+json'})
+    json_metadata = json.loads(smaller_soup.contents[0].strip('\n/* <![CDATA[ */\n').strip('\n/* ]]>'))
+    ratingcount = json_metadata['aggregateRating']['ratingCount']
+    movie['ratingCount'] = ratingcount
+    movie['communityScoreRaw'] = rating_val
+    movie['communityScoreWeighted'] = json_metadata['aggregateRating']['ratingValue']
+    return movie
+
+# def film_populatiry(movie):
+#     movie_req = requests.get(movie['Letterboxd URI'])
+#     print(movie['Name'])
+#     movie_page = movie_req.text
+#     movie_soup = BeautifulSoup(movie_page,'lxml')
+
+if 'communityScoreRaw' in ratings.columns.values :
+    df = ratings.copy()
+else:
+    df = ratings.apply(my_hottest_takes,axis=1)
+    df.to_csv('madisonsmith1262022/ratings.csv',sep=',',index=False)
+
+plt.scatter(df['Rating'],df['Rating']-df['communityScoreWeighted'],s=5,c='k')
+plt.ylabel('My Rating - Letterboxd Users Rating')
+plt.xlabel('My Rating')
+plt.show()
+
+
+# ratings.to_csv('madisonsmith1262022/ratings.csv',sep=',',index=False)
+# by_year = ratings.groupby('Year')
+# for year,info in by_year:
+#     mean_rating = np.mean(info['Rating'])
+#     max_rating = np.max(info['Rating'])
+#     min_rating = np.min(info['Rating'])
+#     plt.errorbar(year,mean_rating,yerr=[[mean_rating-min_rating],[max_rating-mean_rating]],fmt='o')
