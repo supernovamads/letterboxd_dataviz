@@ -1,267 +1,305 @@
-Date,Name,Year,Letterboxd URI,Rating,ratingCount,communityScoreRaw,communityScoreWeighted
-2019-01-18,Get Out,2017,https://boxd.it/eOCm,5.0,835477,9,4.17
-2019-01-18,Pulp Fiction,1994,https://boxd.it/29Pq,2.0,861363,8,4.31
-2019-01-18,The Dark Knight,2008,https://boxd.it/2b0k,3.0,852889,10,4.43
-2019-01-18,Star Wars: The Force Awakens,2015,https://boxd.it/4vru,4.0,592689,10,3.5
-2019-01-18,Inception,2010,https://boxd.it/1skk,2.0,889327,8,4.17
-2019-01-18,Star Wars: The Last Jedi,2017,https://boxd.it/5xme,4.0,526951,9,3.19
-2019-01-18,Fight Club,1999,https://boxd.it/2a9q,3.0,802313,10,4.26
-2019-01-18,The Wolf of Wall Street,2013,https://boxd.it/3C1m,3.0,735040,9,4.0
-2019-01-18,The Shining,1980,https://boxd.it/29Nu,4.0,681905,10,4.28
-2019-01-18,Inglourious Basterds,2009,https://boxd.it/1JzG,3.0,726141,10,4.28
-2019-01-18,Inside Out,2015,https://boxd.it/4KHC,3.0,607246,10,3.89
-2019-01-18,"Three Billboards Outside Ebbing, Missouri",2017,https://boxd.it/ceBS,5.0,366311,2,3.98
-2019-01-18,Star Wars,1977,https://boxd.it/72s,4.0,567873,9,4.21
-2019-01-18,Rogue One: A Star Wars Story,2016,https://boxd.it/aPvy,4.0,468059,4,3.62
-2019-01-18,Drive,2011,https://boxd.it/IG,4.0,462067,2,3.97
-2019-01-18,The Martian,2015,https://boxd.it/8SeG,4.0,482881,4,3.72
-2019-01-18,The Godfather,1972,https://boxd.it/2aNK,4.0,501079,10,4.54
-2019-01-18,The Empire Strikes Back,1980,https://boxd.it/27Vw,4.0,518432,10,4.4
-2019-01-18,The Social Network,2010,https://boxd.it/17ue,4.0,648970,10,3.95
-2019-01-18,Kill Bill: Vol. 1,2003,https://boxd.it/70w,1.0,593625,10,4.14
-2019-01-18,The Silence of the Lambs,1991,https://boxd.it/2aHW,4.0,583456,10,4.31
-2019-01-18,Se7en,1995,https://boxd.it/29zs,4.0,577624,10,4.26
-2019-01-18,The Lord of the Rings: The Fellowship of the Ring,2001,https://boxd.it/2b5O,1.0,555277,9,4.32
-2019-01-18,Nightcrawler,2014,https://boxd.it/780m,4.0,461844,8,4.03
-2019-01-18,Hereditary,2018,https://boxd.it/hNVe,5.0,548058,8,4.0
-2019-01-18,Jurassic Park,1993,https://boxd.it/2aA2,5.0,478648,10,4.1
-2019-01-18,Forrest Gump,1994,https://boxd.it/728,5.0,646341,1,4.11
-2019-01-18,Spirited Away,2001,https://boxd.it/2b4m,5.0,624805,10,4.47
-2019-01-18,Scott Pilgrim vs. the World,2010,https://boxd.it/1Aq6,2.0,591297,7,3.87
-2019-01-18,The Shawshank Redemption,1994,https://boxd.it/2aHi,3.0,513454,10,4.46
-2019-01-18,Moonrise Kingdom,2012,https://boxd.it/2Wng,3.0,362626,10,3.99
-2019-01-18,Room,2015,https://boxd.it/7T0y,4.0,326667,8,4.01
-2019-01-18,Reservoir Dogs,1992,https://boxd.it/2agc,3.0,433977,9,4.12
-2019-01-18,Psycho,1960,https://boxd.it/2ab2,4.0,349874,8,4.31
-2019-01-18,Up,2009,https://boxd.it/1OEc,4.0,549088,10,4.07
-2019-01-18,Return of the Jedi,1983,https://boxd.it/27Vm,4.0,430897,10,4.0
-2019-01-18,GoodFellas,1990,https://boxd.it/29FA,4.0,425936,9,4.42
-2019-01-18,The Truman Show,1998,https://boxd.it/18U8,1.0,629583,10,4.14
-2019-01-18,Split,2016,https://boxd.it/dgSy,1.0,420027,9,3.5
-2019-01-18,The Witch,2015,https://boxd.it/9X0m,4.5,370172,9,3.86
-2019-01-18,Jaws,1975,https://boxd.it/2a5e,4.0,356812,10,4.01
-2019-01-18,Zodiac,2007,https://boxd.it/27MO,4.0,437322,10,3.98
-2019-01-18,Pan's Labyrinth,2006,https://boxd.it/28No,4.0,321312,9,4.14
-2019-01-18,Spotlight,2015,https://boxd.it/a84k,4.0,252784,9,3.99
-2019-01-18,Finding Nemo,2003,https://boxd.it/72i,5.0,479003,9,4.04
-2019-01-18,Shutter Island,2010,https://boxd.it/1U82,1.5,542924,8,4.01
-2019-01-18,Moana,2016,https://boxd.it/8tfY,3.5,357427,8,3.77
-2019-01-18,It Follows,2014,https://boxd.it/87wo,2.5,254158,10,3.56
-2019-01-18,Harry Potter and the Prisoner of Azkaban,2004,https://boxd.it/29Qy,3.5,481043,10,4.08
-2019-01-18,Solo: A Star Wars Story,2018,https://boxd.it/bGWs,3.5,289715,3,3.0
-2019-01-18,The Imitation Game,2014,https://boxd.it/6aig,4.0,313103,8,3.75
-2019-01-18,Schindler's List,1993,https://boxd.it/2aq2,4.5,307315,10,4.42
-2019-01-18,Harry Potter and the Philosopher's Stone,2001,https://boxd.it/29QS,4.0,473076,10,3.77
-2019-01-18,Die Hard,1988,https://boxd.it/2a7u,3.0,297943,9,4.08
-2019-01-18,Silver Linings Playbook,2012,https://boxd.it/2TTo,3.0,309526,4,3.62
-2019-01-18,"Monsters, Inc.",2001,https://boxd.it/2a46,4.0,447520,8,4.06
-2019-01-18,Apocalypse Now,1979,https://boxd.it/6ZS,3.0,255884,9,4.36
-2019-01-18,Avatar,2009,https://boxd.it/1Efm,0.5,438580,3,3.34
-2019-01-18,The Big Short,2015,https://boxd.it/ajZw,3.5,283523,6,3.76
-2019-01-18,Harry Potter and the Deathly Hallows: Part 2,2011,https://boxd.it/1RYk,3.5,406111,9,3.92
-2019-01-18,Oldboy,2003,https://boxd.it/29R2,4.0,269810,10,4.31
-2019-01-18,Trainspotting,1996,https://boxd.it/29XY,2.0,288116,9,4.13
-2019-01-18,Finding Dory,2016,https://boxd.it/4aAA,4.0,283923,7,3.32
-2019-01-18,Halloween,1978,https://boxd.it/2wRu,3.5,288160,9,3.91
-2019-01-18,Star Wars: Episode III - Revenge of the Sith,2005,https://boxd.it/27US,4.0,382938,7,3.47
-2019-01-18,The Cabin in the Woods,2011,https://boxd.it/1zOc,4.0,277303,9,3.48
-2019-01-18,Star Wars: Episode I - The Phantom Menace,1999,https://boxd.it/27Vc,3.0,378850,1,2.69
-2019-01-18,Citizen Kane,1941,https://boxd.it/71O,3.0,216022,10,4.19
-2019-01-18,Casablanca,1942,https://boxd.it/2aG0,3.0,199533,10,4.24
-2019-01-18,The Babadook,2014,https://boxd.it/77xu,3.5,218291,7,3.46
-2019-01-18,Catch Me If You Can,2002,https://boxd.it/29VS,4.0,388618,8,3.99
-2019-01-18,Bird Box,2018,https://boxd.it/eh1i,4.0,321961,5,2.89
-2019-02-12,Velvet Buzzsaw,2019,https://boxd.it/gAy0,3.0,100738,5,2.43
-2019-02-16,Halloween,2018,https://boxd.it/f0uE,4.0,174794,6,3.27
-2019-02-16,Rosemary's Baby,1968,https://boxd.it/29zM,3.0,176272,8,4.16
-2019-02-16,The Exorcist,1973,https://boxd.it/1Yoo,3.5,224161,8,4.01
-2019-02-16,The Conjuring,2013,https://boxd.it/4sr2,3.0,302245,7,3.57
-2019-02-16,It Comes at Night,2017,https://boxd.it/eLuk,3.0,109000,8,3.24
-2019-02-16,Carrie,1976,https://boxd.it/20ZQ,3.0,175241,10,3.84
-2019-02-16,28 Days Later,2002,https://boxd.it/2aXU,2.5,173409,8,3.72
-2019-02-16,A Nightmare on Elm Street,1984,https://boxd.it/2aw0,3.5,182471,8,3.76
-2019-02-16,The Evil Dead,1981,https://boxd.it/29Go,3.5,155918,5,3.72
-2019-02-16,The Blair Witch Project,1999,https://boxd.it/26ua,3.5,190171,7,3.34
-2019-02-16,The Rocky Horror Picture Show,1975,https://boxd.it/1a3q,3.0,170066,8,3.95
-2019-02-16,I Am Legend,2007,https://boxd.it/21DG,2.5,217985,8,3.27
-2019-02-16,The Birds,1963,https://boxd.it/2a6m,3.0,130065,7,3.74
-2019-02-16,Gremlins,1984,https://boxd.it/29gg,3.0,154220,8,3.65
-2019-02-16,The Conjuring 2,2016,https://boxd.it/7GJg,2.5,173635,6,3.37
-2019-02-16,Saw,2004,https://boxd.it/2aWW,4.0,187828,8,3.54
-2019-02-16,Evil Dead II,1987,https://boxd.it/29Ge,3.0,116496,10,4.03
-2019-02-16,Night of the Living Dead,1968,https://boxd.it/1WwA,3.0,105452,9,3.98
-2019-02-16,Sweeney Todd: The Demon Barber of Fleet Street,2007,https://boxd.it/1PcS,2.5,146347,8,3.45
-2019-02-16,Hush,2016,https://boxd.it/d5ys,3.5,154461,7,3.27
-2019-02-16,From Dusk Till Dawn,1996,https://boxd.it/29HQ,3.0,120850,9,3.49
-2019-02-16,Poltergeist,1982,https://boxd.it/2a0o,3.5,114375,7,3.56
-2019-02-16,Nosferatu,1922,https://boxd.it/29TM,3.0,78136,9,3.88
-2019-02-16,The Purge,2013,https://boxd.it/4Xg0,3.0,161951,3,2.67
-2019-02-16,Insidious,2010,https://boxd.it/H4k,3.0,148040,5,3.21
-2019-02-16,The Others,2001,https://boxd.it/27Po,3.0,114866,8,3.69
-2019-02-16,Gerald's Game,2017,https://boxd.it/buKa,2.5,102146,6,3.21
-2019-02-16,The Visit,2015,https://boxd.it/9ssO,3.0,96091,4,3.05
-2019-02-16,Evil Dead,2013,https://boxd.it/3GPq,4.0,87971,3,3.31
-2019-02-16,Antichrist,2009,https://boxd.it/1Inu,3.0,83195,5,3.41
-2019-02-16,Warm Bodies,2013,https://boxd.it/2TFm,3.0,97318,7,2.91
-2019-02-16,The Ring,2002,https://boxd.it/2a70,3.0,121720,8,3.31
-2019-02-16,You're Next,2011,https://boxd.it/2WWK,2.5,76011,5,3.35
-2019-02-16,Army of Darkness,1992,https://boxd.it/29G4,3.5,87021,8,3.72
-2019-02-16,The Mist,2007,https://boxd.it/22r2,3.0,93390,8,3.42
-2019-02-16,Friday the 13th,1980,https://boxd.it/24fs,3.5,111448,7,3.11
-2019-02-16,The Ritual,2017,https://boxd.it/fo0I,3.0,91071,7,3.2
-2019-02-16,Paranormal Activity,2007,https://boxd.it/1yIM,3.5,110848,9,2.85
-2019-02-16,Sinister,2012,https://boxd.it/2TnW,3.0,118944,6,3.25
-2019-02-16,Audition,1999,https://boxd.it/1UHm,4.0,71959,7,3.8
-2019-02-16,Drag Me to Hell,2009,https://boxd.it/1Jzw,2.5,77958,9,3.19
-2019-02-16,Oculus,2013,https://boxd.it/4W9M,2.5,57785,9,3.17
-2019-02-16,The Woman in Black,2012,https://boxd.it/4wu,2.5,63265,6,2.87
-2019-02-16,The Omen,1976,https://boxd.it/29By,4.0,55141,7,3.62
-2019-02-16,Mama,2013,https://boxd.it/4i9s,3.0,63206,6,2.72
-2019-02-16,Orphan,2009,https://boxd.it/1CgM,3.5,100295,7,3.27
-2019-02-16,Saw II,2005,https://boxd.it/2aRs,3.0,95106,6,3.03
-2019-02-16,Christine,1983,https://boxd.it/1ZRQ,4.0,51527,7,3.45
-2019-02-16,The Strangers,2008,https://boxd.it/1VGY,4.0,65886,4,3.02
-2019-02-16,1408,2007,https://boxd.it/25Vu,3.0,55854,8,3.14
-2019-02-16,Silent Hill,2006,https://boxd.it/2a3C,3.0,57632,6,3.0
-2019-02-16,Candyman,1992,https://boxd.it/1Ys6,3.0,98112,7,3.64
-2019-02-16,"As Above, So Below",2014,https://boxd.it/7yui,2.5,72914,7,3.1
-2019-02-16,V/H/S,2012,https://boxd.it/2Y1c,4.0,42519,5,2.87
-2019-02-16,Hostel,2005,https://boxd.it/28ig,4.0,61419,8,2.73
-2019-02-16,Halloween,2007,https://boxd.it/27u6,3.5,50202,7,2.72
-2019-02-16,Creep 2,2017,https://boxd.it/dSEO,3.5,49345,6,3.36
-2019-02-16,Jeepers Creepers,2001,https://boxd.it/1ZAg,3.0,48725,10,3.01
-2019-02-16,Slither,2006,https://boxd.it/1Zks,3.0,34709,7,3.29
-2019-02-16,The Devil's Rejects,2005,https://boxd.it/28hC,4.0,36451,9,3.36
-2019-02-16,The Hills Have Eyes,2006,https://boxd.it/1XNC,3.5,41662,1,3.03
-2019-02-16,Saw IV,2007,https://boxd.it/29Sa,3.0,56912,6,2.59
-2019-02-16,The Grudge,2004,https://boxd.it/27Jq,4.0,44740,10,2.75
-2019-02-16,Children of the Corn,1984,https://boxd.it/1ViW,3.5,39338,4,2.74
-2019-02-16,Paranormal Activity 2,2010,https://boxd.it/ZnO,2.5,45616,4,2.53
-2019-02-16,V/H/S/2,2013,https://boxd.it/4Ysw,2.5,27179,8,2.96
-2019-02-16,The Human Centipede (First Sequence),2009,https://boxd.it/18Tu,3.0,44297,3,2.01
-2019-02-16,Housebound,2014,https://boxd.it/7qOk,2.5,18191,7,3.43
-2019-02-16,Rubber,2010,https://boxd.it/P2m,3.0,26812,3,2.83
-2019-02-16,Saw V,2008,https://boxd.it/1SMa,2.5,50409,2,2.53
-2019-02-16,John Dies at the End,2012,https://boxd.it/2BSW,2.0,17550,8,3.1
-2019-02-16,Snakes on a Plane,2006,https://boxd.it/2aAw,3.0,42145,6,2.42
-2019-02-16,The Eyes of My Mother,2016,https://boxd.it/cTd8,5.0,15497,8,3.36
-2019-02-16,The Crazies,2010,https://boxd.it/1nvW,3.5,31932,7,3.0
-2019-02-16,House of Wax,2005,https://boxd.it/1XaU,3.0,51278,6,2.76
-2019-02-16,Pontypool,2008,https://boxd.it/1yBw,3.0,18548,9,3.43
-2019-02-16,Saw 3D,2010,https://boxd.it/Znk,2.5,43337,4,2.27
-2019-02-16,Cabin Fever,2002,https://boxd.it/1TAu,3.0,27650,8,2.8
-2019-02-16,Saw VI,2009,https://boxd.it/1A2y,3.0,45221,9,2.73
-2019-02-16,XX,2017,https://boxd.it/9pU6,4.0,14798,6,2.35
-2019-02-16,A Serbian Film,2010,https://boxd.it/2wBc,2.5,31002,2,2.1
-2019-02-17,The Sacrament,2013,https://boxd.it/6iEY,3.0,12411,1,3.0
-2019-02-18,The Autopsy of Jane Doe,2016,https://boxd.it/dUu2,3.0,79831,5,3.24
-2019-02-25,The Killing of a Sacred Deer,2017,https://boxd.it/dZ5G,3.0,228431,9,3.75
-2019-03-26,Us,2019,https://boxd.it/gnV6,4.0,531183,9,3.71
-2019-04-01,The Dirt,2019,https://boxd.it/aGN4,3.0,38973,3,3.05
-2019-04-01,The Dawn Wall,2017,https://boxd.it/hCP0,4.5,13337,10,3.98
-2019-04-01,Lady Bird,2017,https://boxd.it/dGNE,3.5,729945,10,3.9
-2019-04-01,Jurassic World,2015,https://boxd.it/4n0g,3.0,345309,4,2.99
-2019-04-01,Green Room,2015,https://boxd.it/a75m,3.5,155592,9,3.71
-2019-04-01,Apostle,2018,https://boxd.it/f0so,3.5,50060,7,3.12
-2019-04-30,Friday the 13th,2009,https://boxd.it/1QAw,2.5,51767,4,2.49
-2020-01-07,Marriage Story,2019,https://boxd.it/hJAw,3.0,513972,9,4.0
-2020-01-07,Star Wars: The Rise of Skywalker,2019,https://boxd.it/5xlK,4.0,425394,2,2.62
-2020-01-07,It,2017,https://boxd.it/bC8e,4.0,555701,8,3.52
-2020-01-07,Raw,2016,https://boxd.it/dLd2,5.0,160249,9,3.7
-2020-01-08,Free Solo,2018,https://boxd.it/iEEq,4.5,86108,7,3.97
-2020-01-11,Casting JonBenet,2017,https://boxd.it/fgXM,3.5,13823,8,3.25
-2020-01-26,Midsommar,2019,https://boxd.it/jhxe,4.5,747720,7,3.83
-2020-02-24,Parasite,2019,https://boxd.it/hTha,5.0,1126523,10,4.59
-2020-03-23,Ratatouille,2007,https://boxd.it/27ww,4.0,549276,10,4.12
-2020-05-09,The Lighthouse,2019,https://boxd.it/icFU,3.5,450715,10,4.05
-2020-08-23,The Little Shop of Horrors,1960,https://boxd.it/1xDm,2.5,11192,5,3.11
-2020-09-09,Southbound,2015,https://boxd.it/bX3Y,4.0,14842,8,3.02
-2020-09-09,The Lodge,2019,https://boxd.it/h2c2,2.5,63368,4,3.17
-2020-12-20,The Queen's Gambit,2020,https://boxd.it/s1Ym,4.0,271292,9,4.27
-2020-12-26,Soul,2020,https://boxd.it/ioLA,4.5,535012,9,4.05
-2020-12-27,Sound of Metal,2019,https://boxd.it/i7Q4,4.5,268453,10,4.13
-2021-02-06,Ma Rainey's Black Bottom,2020,https://boxd.it/mLcm,3.0,96981,7,3.51
-2021-02-06,Crawl,2019,https://boxd.it/iwYi,3.5,87486,7,2.97
-2021-02-12,A Quiet Place,2018,https://boxd.it/fVJQ,3.5,566378,6,3.71
-2021-03-05,Judas and the Black Messiah,2021,https://boxd.it/lsew,4.5,169814,9,4.03
-2021-03-06,Nomadland,2020,https://boxd.it/lnRy,4.5,262103,9,3.87
-2021-03-12,There Will Be Blood,2007,https://boxd.it/20Z2,4.0,322818,4,4.39
-2021-03-16,The Handmaiden,2016,https://boxd.it/948A,4.0,209478,10,4.36
-2021-03-21,Minari,2020,https://boxd.it/mL9M,4.5,208382,9,4.1
-2021-04-12,Burning,2018,https://boxd.it/hHUa,5.0,135352,8,4.0
-2021-05-01,I Saw the Devil,2010,https://boxd.it/FaK,3.5,77721,10,3.97
-2021-05-21,Saw III,2006,https://boxd.it/2aRC,3.5,74131,4,2.81
-2021-05-29,A Quiet Place Part II,2020,https://boxd.it/iTx0,4.0,249173,8,3.59
-2021-06-07,The Conjuring: The Devil Made Me Do It,2021,https://boxd.it/eXZY,3.0,145662,6,2.85
-2021-06-08,Bo Burnham: Inside,2021,https://boxd.it/v2uy,3.5,225036,10,4.23
-2021-06-09,Memories of Murder,2003,https://boxd.it/1TSo,4.0,162056,10,4.29
-2021-06-10,Suspiria,2018,https://boxd.it/cioI,3.5,172407,9,3.74
-2021-06-18,Dogtooth,2009,https://boxd.it/158K,3.5,104684,7,3.79
-2021-06-21,Saint Maud,2019,https://boxd.it/l8QA,2.5,84189,7,3.55
-2021-07-08,State of Play,2009,https://boxd.it/1JnA,3.0,23341,6,3.26
-2021-07-15,The Strange Thing About the Johnsons,2011,https://boxd.it/56nO,3.5,25354,6,3.32
-2021-07-16,A Classic Horror Story,2021,https://boxd.it/sRY4,2.5,26489,8,2.76
-2021-07-21,The Act of Killing,2012,https://boxd.it/44Cg,4.5,43614,10,4.23
-2021-07-25,I Care a Lot,2020,https://boxd.it/mcHk,3.5,174776,7,3.12
-2021-07-26,Possessor,2020,https://boxd.it/fsJW,4.0,74955,8,3.63
-2021-07-28,Let the Right One In,2008,https://boxd.it/1Qr0,4.0,92806,10,4.01
-2021-07-31,The Lords of Salem,2012,https://boxd.it/3yDm,2.0,20815,9,2.9
-2021-08-01,My Heart Can't Beat Unless You Tell It To,2020,https://boxd.it/pLFY,4.0,3672,8,3.33
-2021-08-02,Ju-on: The Grudge,2002,https://boxd.it/1SY6,4.5,25193,10,3.34
-2021-08-04,Funny Games,1997,https://boxd.it/1WKM,3.5,80047,9,3.88
-2021-08-05,Lake Mungo,2008,https://boxd.it/1rWM,4.0,34093,10,3.46
-2021-08-06,Onibaba,1964,https://boxd.it/252a,4.0,22350,10,4.04
-2021-08-07,Pulse,2001,https://boxd.it/1s3y,4.0,29766,10,3.64
-2021-08-15,The Descent,2005,https://boxd.it/1YNy,4.5,100936,9,3.63
-2021-08-17,The Hills Have Eyes,1977,https://boxd.it/1Sa6,2.5,33457,8,3.13
-2021-08-20,Lights Out,2016,https://boxd.it/bAHc,3.5,71323,4,2.78
-2021-08-21,Portrait of a Lady on Fire,2019,https://boxd.it/jkPq,5.0,314337,10,4.43
-2021-08-24,Alien,1979,https://boxd.it/2awY,4.5,413004,9,4.29
-2021-08-25,The Wicker Man,1973,https://boxd.it/1KnG,4.0,80756,8,3.88
-2021-08-28,No Country for Old Men,2007,https://boxd.it/21ew,4.5,457411,8,4.27
-2021-08-29,Tigers Are Not Afraid,2017,https://boxd.it/bIww,4.5,14706,9,3.67
-2021-08-30,The Brood,1979,https://boxd.it/1ovS,3.5,34714,8,3.58
-2021-09-10,A Tale of Two Sisters,2003,https://boxd.it/248m,4.5,38225,8,3.65
-2021-09-14,Malignant,2021,https://boxd.it/mViE,3.0,144763,8,3.15
-2021-09-26,Prom Night,2008,https://boxd.it/201c,1.5,12568,2,1.78
-2021-10-02,The Texas Chain Saw Massacre,1974,https://boxd.it/1lcS,4.0,175577,10,3.9
-2021-10-03,Titane,2021,https://boxd.it/nlQC,4.0,115637,10,3.72
-2021-10-04,The Invisible Man,2020,https://boxd.it/kWlA,4.0,277327,8,3.54
-2021-10-06,The Empty Man,2020,https://boxd.it/iIWS,3.5,37595,8,3.24
-2021-10-13,V/H/S/94,2021,https://boxd.it/shhy,3.0,18579,8,2.92
-2021-10-16,The Medium,2021,https://boxd.it/s0oi,3.5,10856,7,3.4
-2021-10-16,Ringu,1998,https://boxd.it/26tw,4.0,46840,7,3.56
-2021-10-18,Trick 'r Treat,2007,https://boxd.it/1zvE,4.0,66087,10,3.57
-2021-10-19,Hellraiser,1987,https://boxd.it/1Zpi,4.5,95800,6,3.53
-2021-10-22,Noroi: The Curse,2005,https://boxd.it/1BN6,4.5,18196,10,3.68
-2021-10-23,The Wailing,2016,https://boxd.it/9fLy,5.0,75307,9,3.92
-2021-10-29,High Life,2018,https://boxd.it/d6bk,2.5,79814,6,3.28
-2021-11-01,Kandisha,2020,https://boxd.it/mqtG,2.5,1791,6,2.93
-2021-11-03,The Return of the Living Dead,1985,https://boxd.it/1V3W,3.5,38346,10,3.84
-2021-11-10,Caveat,2020,https://boxd.it/rX5M,3.5,7279,6,3.22
-2021-11-17,Mother,2009,https://boxd.it/1m9g,4.0,68083,9,4.06
-2021-11-22,The Terror Within,1989,https://boxd.it/1nGK,2.0,1038,6,2.44
-2021-11-22,The Terror Within II,1991,https://boxd.it/3XwU,1.5,304,7,2.4
-2021-11-22,Deathstalker,1983,https://boxd.it/1Lhu,1.0,3148,6,2.23
-2021-11-23,The Lobster,2015,https://boxd.it/7tnw,4.0,324848,9,3.78
-2021-11-24,Her,2013,https://boxd.it/4O24,4.0,590562,9,4.05
-2021-11-26,Harry Potter and the Chamber of Secrets,2002,https://boxd.it/29QI,3.5,412340,8,3.61
-2021-12-16,Natural Born Killers,1994,https://boxd.it/2aNg,3.0,90687,9,3.51
-2021-12-17,Les Misérables,2012,https://boxd.it/2TT4,1.5,170745,2,3.53
-2021-12-26,The Nine Lives of Christmas,2014,https://boxd.it/9vBY,3.5,892,7,3.05
-2021-12-28,Don't Look Up,2021,https://boxd.it/o0Hc,2.5,500445,5,3.19
-2021-12-31,Licorice Pizza,2021,https://boxd.it/qTKY,3.0,121157,9,3.9
-2022-01-02,Censor,2021,https://boxd.it/oHFS,3.5,35002,7,3.26
-2022-01-03,Gaia,2021,https://boxd.it/tWfq,3.0,5967,6,2.99
-2022-01-04,Punch-Drunk Love,2002,https://boxd.it/20E4,2.5,180964,10,3.96
-2022-01-14,I Know What You Did Last Summer,1997,https://boxd.it/2588,3.0,70127,7,2.86
-2022-01-15,The Alpinist,2021,https://boxd.it/psEM,4.5,8866,7,3.81
-2022-01-16,Kwaidan,1964,https://boxd.it/1kbY,4.0,18417,10,4.14
-2022-01-20,Creep,2014,https://boxd.it/7l4c,4.0,92236,9,3.35
-2022-01-21,Terrified,2017,https://boxd.it/hCyy,3.0,16032,7,3.22
-2022-01-23,The Host,2006,https://boxd.it/28ZY,3.5,118612,10,3.72
-2022-01-25,You Won't Be Alone,2022,https://boxd.it/xjIG,3.5,960,7,3.42
-2022-01-27,House,1977,https://boxd.it/1vsm,4.0,91663,10,4.0
-2022-01-28,Hellbound: Hellraiser II,1988,https://boxd.it/1ZfW,3.5,31535,9,3.25
-2022-01-31,Suspiria,1977,https://boxd.it/1SNW,4.0,158626,10,3.96
-2022-02-04,The Thing,1982,https://boxd.it/294O,4.5,275110,10,4.31
+Date,Name,Year,Letterboxd URI,Rating,director,country,genres,themes,Major Genre,ratingCount,communityScoreRaw,communityScoreWeighted
+2019-01-18,Get Out,2017,https://boxd.it/eOCm,5.0,Jordan Peele,usa,"['thriller', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,1051024,9,4.18
+2019-01-18,Pulp Fiction,1994,https://boxd.it/29Pq,2.0,Quentin Tarantino,usa,"['crime', 'thriller']","['Crime, drugs and gangsters']",crime,1052044,8,4.3
+2019-01-18,The Dark Knight,2008,https://boxd.it/2b0k,3.0,Christopher Nolan,uk,"['action', 'thriller', 'drama', 'crime']","['High speed and special ops', 'Epic heroes', 'Crime, drugs and gangsters']",action,1097276,10,4.44
+2019-01-18,Star Wars: The Force Awakens,2015,https://boxd.it/4vru,4.0,Jj Abrams,usa,"['science-fiction', 'action', 'adventure', 'fantasy']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse']",science-fiction,701290,10,3.45
+2019-01-18,Inception,2010,https://boxd.it/1skk,2.0,Christopher Nolan,uk,"['science-fiction', 'action', 'adventure']","['High speed and special ops', 'Monsters, aliens, sci-fi and the apocalypse']",science-fiction,1082836,8,4.18
+2019-01-18,Star Wars: The Last Jedi,2017,https://boxd.it/5xme,4.0,Rian Johnson,usa,"['science-fiction', 'adventure', 'action']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse', 'War and historical adventure']",science-fiction,623401,9,3.13
+2019-01-18,Fight Club,1999,https://boxd.it/2a9q,3.0,David Fincher,germany,['drama'],"['Intense violence and sexual transgression', 'Politics and human rights']",drama,1069423,10,4.28
+2019-01-18,The Wolf of Wall Street,2013,https://boxd.it/3C1m,3.0,Martin Scorsese,usa,"['comedy', 'drama', 'crime']","['Crime, drugs and gangsters', 'Crude humor and satire']",comedy,920439,9,4.01
+2019-01-18,The Shining,1980,https://boxd.it/29Nu,4.0,Stanley Kubrick,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,834412,10,4.27
+2019-01-18,Inglourious Basterds,2009,https://boxd.it/1JzG,3.0,Quentin Tarantino,germany,"['thriller', 'drama', 'action', 'war']",['War and historical adventure'],thriller,888049,10,4.29
+2019-01-18,Inside Out,2015,https://boxd.it/4KHC,3.0,Pete Docter,usa,"['adventure', 'comedy', 'family', 'drama', 'animation']",[],adventure,738710,10,3.87
+2019-01-18,"Three Billboards Outside Ebbing, Missouri",2017,https://boxd.it/ceBS,5.0,Martin Mcdonagh,uk,"['drama', 'crime']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression', 'Politics and human rights']",drama,405135,2,3.98
+2019-01-18,Star Wars,1977,https://boxd.it/72s,4.0,George Lucas 1,usa,"['adventure', 'action', 'science-fiction']","['Monsters, aliens, sci-fi and the apocalypse', 'Epic heroes']",adventure,705047,9,4.21
+2019-01-18,Rogue One: A Star Wars Story,2016,https://boxd.it/aPvy,4.0,Gareth Edwards,usa,"['action', 'adventure', 'science-fiction']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse', 'War and historical adventure']",action,557484,6,3.64
+2019-01-18,Drive,2011,https://boxd.it/IG,4.0,Nicolas Winding Refn,usa,"['thriller', 'drama', 'crime']","['Crime, drugs and gangsters', 'High speed and special ops']",thriller,567827,2,3.96
+2019-01-18,The Martian,2015,https://boxd.it/8SeG,4.0,Ridley Scott,uk,"['drama', 'science-fiction', 'adventure']","['Monsters, aliens, sci-fi and the apocalypse']",drama,563554,4,3.72
+2019-01-18,The Godfather,1972,https://boxd.it/2aNK,4.0,Francis Ford Coppola,usa,"['crime', 'drama']","['Crime, drugs and gangsters', 'Politics and human rights', 'Epic history and literature']",crime,635848,10,4.54
+2019-01-18,The Empire Strikes Back,1980,https://boxd.it/27Vw,4.0,Irvin Kershner,usa,"['science-fiction', 'adventure', 'action']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse']",science-fiction,640566,10,4.4
+2019-01-18,The Social Network,2010,https://boxd.it/17ue,4.0,David Fincher,usa,['drama'],"['Underdogs and coming of age', 'Politics and human rights', 'Humanity and the world around us']",drama,796548,10,3.95
+2019-01-18,Kill Bill: Vol. 1,2003,https://boxd.it/70w,1.0,Quentin Tarantino,usa,"['action', 'crime']","['Epic heroes', 'Westerns']",action,725257,10,4.15
+2019-01-18,The Silence of the Lambs,1991,https://boxd.it/2aHW,4.0,Jonathan Demme,usa,"['thriller', 'drama', 'crime']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",thriller,711035,10,4.31
+2019-01-18,Se7en,1995,https://boxd.it/29zs,4.0,David Fincher,usa,"['thriller', 'crime', 'mystery']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression', 'Horror, the undead and monster classics']",thriller,744762,10,4.28
+2019-01-18,The Lord of the Rings: The Fellowship of the Ring,2001,https://boxd.it/2b5O,1.0,Peter Jackson,new-zealand,"['action', 'fantasy', 'adventure']","['Epic heroes', 'Epic history and literature']",action,679039,9,4.32
+2019-01-18,Nightcrawler,2014,https://boxd.it/780m,4.0,Dan Gilroy,usa,"['crime', 'thriller', 'drama']","['Thrillers and murder mysteries', 'Crime, drugs and gangsters', 'Intense violence and sexual transgression']",crime,579000,8,4.03
+2019-01-18,Jurassic Park,1993,https://boxd.it/2aA2,5.0,Steven Spielberg,usa,"['science-fiction', 'adventure']","['Monsters, aliens, sci-fi and the apocalypse', 'Epic heroes']",science-fiction,591944,10,4.11
+2019-01-18,Forrest Gump,1994,https://boxd.it/728,5.0,Robert Zemeckis,usa,"['romance', 'comedy', 'drama']","['Politics and human rights', 'Underdogs and coming of age']",romance,818851,1,4.13
+2019-01-18,Spirited Away,2001,https://boxd.it/2b4m,5.0,Hayao Miyazaki,japan,"['fantasy', 'animation', 'family']",[],fantasy,793394,10,4.47
+2019-01-18,Scott Pilgrim vs. the World,2010,https://boxd.it/1Aq6,2.0,Edgar Wright,uk,"['romance', 'comedy', 'action']","['Underdogs and coming of age', 'Epic heroes', 'Crude humor and satire', 'Relationship comedy', 'Song and dance']",romance,716098,7,3.87
+2019-01-18,The Shawshank Redemption,1994,https://boxd.it/2aHi,3.0,Frank Darabont,usa,"['drama', 'crime']","['Crime, drugs and gangsters', 'Politics and human rights', 'Faith and religion']",drama,643965,10,4.47
+2019-01-18,Moonrise Kingdom,2012,https://boxd.it/2Wng,3.0,Wes Anderson,usa,"['comedy', 'drama', 'romance']",['Relationship comedy'],comedy,423784,10,3.99
+2019-01-18,Room,2015,https://boxd.it/7T0y,4.0,Lenny Abrahamson,canada,"['drama', 'thriller']","['Moving relationship stories', 'Intense violence and sexual transgression', 'Faith and religion']",drama,375372,8,4.0
+2019-01-18,Reservoir Dogs,1992,https://boxd.it/2agc,3.0,Quentin Tarantino,usa,"['crime', 'thriller']","['Crime, drugs and gangsters']",crime,513785,9,4.12
+2019-01-18,Psycho,1960,https://boxd.it/2ab2,4.0,Alfred Hitchcock,usa,"['drama', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",drama,411757,8,4.3
+2019-01-18,Up,2009,https://boxd.it/1OEc,4.0,Pete Docter,usa,"['adventure', 'comedy', 'animation', 'family']",[],adventure,688165,10,4.08
+2019-01-18,Return of the Jedi,1983,https://boxd.it/27Vm,4.0,Richard Marquand,usa,"['science-fiction', 'adventure', 'action']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse', 'Epic history and literature']",science-fiction,529409,10,4.01
+2019-01-18,GoodFellas,1990,https://boxd.it/29FA,4.0,Martin Scorsese,usa,"['drama', 'crime']","['Crime, drugs and gangsters']",drama,534015,9,4.43
+2019-01-18,The Truman Show,1998,https://boxd.it/18U8,1.0,Peter Weir,usa,"['comedy', 'drama']","['Faith and religion', 'Relationship comedy', 'Humanity and the world around us']",comedy,827190,10,4.17
+2019-01-18,Split,2016,https://boxd.it/dgSy,1.0,Kim Director,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",horror,505045,4,3.51
+2019-01-18,The Witch,2015,https://boxd.it/9X0m,4.5,Robert Eggers,canada,"['drama', 'mystery', 'horror', 'fantasy']","['Horror, the undead and monster classics', 'Faith and religion', 'Intense violence and sexual transgression']",drama,469385,9,3.87
+2019-01-18,Jaws,1975,https://boxd.it/2a5e,4.0,Steven Spielberg,usa,"['thriller', 'horror', 'adventure']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",thriller,432243,10,3.99
+2019-01-18,Zodiac,2007,https://boxd.it/27MO,4.0,David Fincher,usa,"['mystery', 'thriller', 'drama', 'crime']",['Thrillers and murder mysteries'],mystery,532057,10,3.98
+2019-01-18,Pan's Labyrinth,2006,https://boxd.it/28No,4.0,Guillermo Del Toro,mexico,"['war', 'drama', 'fantasy']",['Epic history and literature'],war,369332,9,4.14
+2019-01-18,Spotlight,2015,https://boxd.it/a84k,4.0,Tom Mccarthy 2,michael-countryman,"['drama', 'history']","['Faith and religion', 'Politics and human rights']",drama,277812,9,3.99
+2019-01-18,Finding Nemo,2003,https://boxd.it/72i,5.0,Andrew Stanton,usa,"['family', 'animation']",[],family,591755,9,4.04
+2019-01-18,Shutter Island,2010,https://boxd.it/1U82,1.5,Martin Scorsese,usa,"['thriller', 'mystery', 'drama']","['Thrillers and murder mysteries', 'Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,692674,8,4.05
+2019-01-18,Moana,2016,https://boxd.it/8tfY,3.5,Ron Clements,usa,"['comedy', 'adventure', 'animation', 'family']",['Song and dance'],comedy,430272,8,3.76
+2019-01-18,It Follows,2014,https://boxd.it/87wo,2.5,David Robert Mitchell,usa,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",horror,299880,10,3.55
+2019-01-18,Harry Potter and the Prisoner of Azkaban,2004,https://boxd.it/29Qy,3.5,Alfonso Cuaron,uk,"['adventure', 'fantasy']",['Epic heroes'],adventure,602700,10,4.09
+2019-01-18,Solo: A Star Wars Story,2018,https://boxd.it/bGWs,3.5,Ron Howard,usa,"['action', 'science-fiction', 'adventure']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse', 'Westerns']",action,343918,3,2.99
+2019-01-18,The Imitation Game,2014,https://boxd.it/6aig,4.0,Morten Tyldum,uk,"['history', 'drama', 'war', 'thriller']","['War and historical adventure', 'Politics and human rights', 'Epic history and literature']",history,373793,8,3.76
+2019-01-18,Schindler's List,1993,https://boxd.it/2aq2,4.5,Steven Spielberg,usa,"['war', 'drama', 'history']","['War and historical adventure', 'Politics and human rights']",war,369078,10,4.43
+2019-01-18,Harry Potter and the Philosopher's Stone,2001,https://boxd.it/29QS,4.0,Chris Columbus,uk,"['fantasy', 'adventure']",['Epic heroes'],fantasy,588095,10,3.78
+2019-01-18,Die Hard,1988,https://boxd.it/2a7u,3.0,John Mctiernan,usa,"['action', 'thriller']",['High speed and special ops'],action,344731,9,4.06
+2019-01-18,Silver Linings Playbook,2012,https://boxd.it/2TTo,3.0,David O Russell,usa,"['drama', 'comedy', 'romance']","['Relationship comedy', 'Moving relationship stories', 'Underdogs and coming of age', 'Song and dance']",drama,361427,6,3.63
+2019-01-18,"Monsters, Inc.",2001,https://boxd.it/2a46,4.0,Pete Docter,usa,"['comedy', 'animation', 'family']",[],comedy,557881,8,4.06
+2019-01-18,Apocalypse Now,1979,https://boxd.it/6ZS,3.0,Francis Ford Coppola,usa,"['war', 'drama']","['War and historical adventure', 'Politics and human rights']",war,302431,9,4.36
+2019-01-18,Avatar,2009,https://boxd.it/1Efm,0.5,James Cameron,usa,"['adventure', 'action', 'science-fiction', 'fantasy']","['Monsters, aliens, sci-fi and the apocalypse', 'Epic heroes', 'War and historical adventure']",adventure,541932,5,3.39
+2019-01-18,The Big Short,2015,https://boxd.it/ajZw,3.5,Adam Mckay,usa,"['comedy', 'drama']","['Politics and human rights', 'Crude humor and satire']",comedy,333512,6,3.76
+2019-01-18,Harry Potter and the Deathly Hallows: Part 2,2011,https://boxd.it/1RYk,3.5,David Yates,uk,"['adventure', 'fantasy']","['Epic heroes', 'Epic history and literature']",adventure,499087,9,3.93
+2019-01-18,Trainspotting,1996,https://boxd.it/29XY,2.0,Danny Boyle,uk,"['crime', 'drama']","['Crime, drugs and gangsters', 'Humanity and the world around us', 'Underdogs and coming of age', 'Crude humor and satire']",crime,345206,9,4.14
+2019-01-18,Finding Dory,2016,https://boxd.it/4aAA,4.0,Andrew Stanton,usa,"['animation', 'adventure', 'comedy', 'family']",[],animation,338463,7,3.3
+2019-01-18,Halloween,1978,https://boxd.it/2wRu,3.5,John Carpenter,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,340923,9,3.9
+2019-01-18,Star Wars: Episode III - Revenge of the Sith,2005,https://boxd.it/27US,4.0,George Lucas 1,usa,"['action', 'science-fiction', 'adventure']","['Epic heroes', 'Epic history and literature', 'Monsters, aliens, sci-fi and the apocalypse']",action,491623,7,3.58
+2019-01-18,The Cabin in the Woods,2011,https://boxd.it/1zOc,4.0,Drew Goddard,usa,"['comedy', 'horror', 'fantasy']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",comedy,319511,9,3.48
+2019-01-18,Star Wars: Episode I - The Phantom Menace,1999,https://boxd.it/27Vc,3.0,George Lucas 1,usa,"['action', 'science-fiction', 'adventure']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse', 'Epic history and literature']",action,477556,4,2.75
+2019-01-18,Citizen Kane,1941,https://boxd.it/71O,3.0,Orson Welles 1,usa,"['drama', 'mystery']","['Politics and human rights', 'Humanity and the world around us', 'Epic history and literature']",drama,247344,10,4.18
+2019-01-18,Casablanca,1942,https://boxd.it/2aG0,3.0,Michael Curtiz,usa,"['romance', 'drama']","['War and historical adventure', 'Epic history and literature']",romance,235764,10,4.23
+2019-01-18,Catch Me If You Can,2002,https://boxd.it/29VS,4.0,Steven Spielberg,usa,"['drama', 'crime']","['Crime, drugs and gangsters', 'Relationship comedy']",drama,493085,8,4.0
+2019-01-18,Bird Box,2018,https://boxd.it/eh1i,4.0,Susanne Bier,usa,"['thriller', 'drama', 'science-fiction']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",thriller,385216,5,2.89
+2019-02-12,Velvet Buzzsaw,2019,https://boxd.it/gAy0,3.0,Dan Gilroy,usa,"['horror', 'mystery', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,109224,5,2.43
+2019-02-16,Halloween,2018,https://boxd.it/f0uE,4.0,David Gordon Green,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,200239,6,3.28
+2019-02-16,Rosemary's Baby,1968,https://boxd.it/29zM,3.0,Roman Polanski,usa,"['drama', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",drama,204489,8,4.16
+2019-02-16,The Exorcist,1973,https://boxd.it/1Yoo,3.5,William Friedkin,usa,['horror'],"['Horror, the undead and monster classics', 'Faith and religion']",horror,269429,8,3.99
+2019-02-16,The Conjuring,2013,https://boxd.it/4sr2,3.0,James Wan,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,372445,7,3.59
+2019-02-16,It Comes at Night,2017,https://boxd.it/eLuk,3.0,Trey Edward Shults,usa,"['horror', 'drama', 'mystery']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",horror,120241,8,3.22
+2019-02-16,Carrie,1976,https://boxd.it/20ZQ,3.0,Brian De Palma,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,217085,10,3.86
+2019-02-16,28 Days Later,2002,https://boxd.it/2aXU,2.5,Danny Boyle,uk,"['horror', 'science-fiction', 'thriller']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,204075,8,3.72
+2019-02-16,A Nightmare on Elm Street,1984,https://boxd.it/2aw0,3.5,Wes Craven,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,224762,10,3.77
+2019-02-16,The Blair Witch Project,1999,https://boxd.it/26ua,3.5,Daniel Myrick,usa,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",mystery,232235,7,3.33
+2019-02-16,The Rocky Horror Picture Show,1975,https://boxd.it/1a3q,3.0,Jim Sharman,uk,"['comedy', 'science-fiction', 'horror', 'fantasy']",['Song and dance'],comedy,206315,8,3.97
+2019-02-16,I Am Legend,2007,https://boxd.it/21DG,2.5,Francis Lawrence,usa,"['science-fiction', 'thriller', 'drama']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",science-fiction,257679,8,3.29
+2019-02-16,The Birds,1963,https://boxd.it/2a6m,3.0,Alfred Hitchcock,usa,['horror'],"['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",horror,149470,7,3.73
+2019-02-16,Gremlins,1984,https://boxd.it/29gg,3.0,Joe Dante,usa,"['horror', 'fantasy', 'comedy']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,179844,8,3.64
+2019-02-16,The Conjuring 2,2016,https://boxd.it/7GJg,2.5,James Wan,usa,"['horror', 'thriller']","['Horror, the undead and monster classics']",horror,209937,6,3.39
+2019-02-16,Saw,2004,https://boxd.it/2aWW,4.0,James Wan,usa,"['horror', 'crime', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",horror,231267,8,3.57
+2019-02-16,Night of the Living Dead,1968,https://boxd.it/1WwA,3.0,George A Romero,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",thriller,121683,9,3.97
+2019-02-16,Sweeney Todd: The Demon Barber of Fleet Street,2007,https://boxd.it/1PcS,2.5,Tim Burton,uk,"['horror', 'drama']","['Song and dance', 'Horror, the undead and monster classics']",horror,172088,8,3.47
+2019-02-16,Hush,2016,https://boxd.it/d5ys,3.5,Mike Flanagan,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",horror,190821,7,3.28
+2019-02-16,From Dusk Till Dawn,1996,https://boxd.it/29HQ,3.0,Robert Rodriguez 1,usa,"['crime', 'thriller', 'horror', 'action']","['Horror, the undead and monster classics', 'Westerns', 'Crime, drugs and gangsters']",crime,138002,9,3.49
+2019-02-16,Poltergeist,1982,https://boxd.it/2a0o,3.5,Tobe Hooper,usa,['horror'],"['Horror, the undead and monster classics']",horror,133589,7,3.56
+2019-02-16,Nosferatu,1922,https://boxd.it/29TM,3.0,F W Murnau,germany,"['fantasy', 'horror']","['Horror, the undead and monster classics']",fantasy,93814,9,3.89
+2019-02-16,The Purge,2013,https://boxd.it/4Xg0,3.0,James Demonaco,france,"['science-fiction', 'horror', 'thriller']","['Intense violence and sexual transgression', 'Horror, the undead and monster classics']",science-fiction,197914,3,2.7
+2019-02-16,Insidious,2010,https://boxd.it/H4k,3.0,James Wan,canada,"['horror', 'thriller']","['Horror, the undead and monster classics']",horror,182486,5,3.23
+2019-02-16,The Others,2001,https://boxd.it/27Po,3.0,Alejandro Amenabar,spain,"['thriller', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,133825,8,3.7
+2019-02-16,Gerald's Game,2017,https://boxd.it/buKa,2.5,Mike Flanagan,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,119420,6,3.2
+2019-02-16,The Visit,2015,https://boxd.it/9ssO,3.0,M Night Shyamalan,usa,"['mystery', 'horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,118149,6,3.07
+2019-02-16,Evil Dead,2013,https://boxd.it/3GPq,4.0,Fede Alvarez 1,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,106257,3,3.34
+2019-02-16,Antichrist,2009,https://boxd.it/1Inu,3.0,Lars Von Trier,denmark,"['horror', 'drama', 'thriller']","['Intense violence and sexual transgression', 'Horror, the undead and monster classics', 'Faith and religion']",horror,95856,5,3.4
+2019-02-16,Warm Bodies,2013,https://boxd.it/2TFm,3.0,Jonathan Levine,usa,"['comedy', 'romance', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",comedy,113418,4,2.92
+2019-02-16,The Ring,2002,https://boxd.it/2a70,3.0,Gore Verbinski,japan,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,146883,8,3.32
+2019-02-16,You're Next,2011,https://boxd.it/2WWK,2.5,Adam Wingard,usa,"['thriller', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,88317,5,3.37
+2019-02-16,The Mist,2007,https://boxd.it/22r2,3.0,Frank Darabont,usa,"['thriller', 'horror', 'science-fiction']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics', 'Faith and religion']",thriller,118296,9,3.42
+2019-02-16,Friday the 13th,1980,https://boxd.it/24fs,3.5,Sean S Cunningham,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,135061,6,3.11
+2019-02-16,The Ritual,2017,https://boxd.it/fo0I,3.0,David Bruckner 2,canada,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",mystery,113018,7,3.21
+2019-02-16,Paranormal Activity,2007,https://boxd.it/1yIM,3.5,Oren Peli 1,usa,"['mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",mystery,133240,6,2.87
+2019-02-16,Sinister,2012,https://boxd.it/2TnW,3.0,Scott Derrickson,canada,"['thriller', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",thriller,152889,6,3.29
+2019-02-16,Audition,1999,https://boxd.it/1UHm,4.0,Takashi Miike,japan,"['horror', 'drama', 'thriller', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,85166,7,3.8
+2019-02-16,Drag Me to Hell,2009,https://boxd.it/1Jzw,2.5,Sam Raimi,usa,"['thriller', 'horror']","['Horror, the undead and monster classics']",thriller,98265,9,3.22
+2019-02-16,Oculus,2013,https://boxd.it/4W9M,2.5,Mike Flanagan,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,68649,9,3.19
+2019-02-16,The Woman in Black,2012,https://boxd.it/4wu,2.5,James Watkins,canada,"['horror', 'drama', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,72434,6,2.88
+2019-02-16,The Omen,1976,https://boxd.it/29By,4.0,Richard Donner,uk,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Faith and religion']",thriller,63393,7,3.63
+2019-02-16,Mama,2013,https://boxd.it/4i9s,3.0,Andy Muschietti,canada,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,74109,6,2.73
+2019-02-16,Orphan,2009,https://boxd.it/1CgM,3.5,Jaume Collet Serra,canada,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",mystery,139568,7,3.33
+2019-02-16,Saw II,2005,https://boxd.it/2aRs,3.0,Darren Lynn Bousman,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",horror,114915,6,3.07
+2019-02-16,Christine,1983,https://boxd.it/1ZRQ,4.0,John Carpenter,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,62039,7,3.46
+2019-02-16,The Strangers,2008,https://boxd.it/1VGY,4.0,Bryan Bertino,usa,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",mystery,80266,4,3.03
+2019-02-16,1408,2007,https://boxd.it/25Vu,3.0,Mikael Hafstrom,usa,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,67766,8,3.16
+2019-02-16,Silent Hill,2006,https://boxd.it/2a3C,3.0,Christophe Gans,canada,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",horror,71523,6,3.03
+2019-02-16,Candyman,1992,https://boxd.it/1Ys6,3.0,Bernard Rose,usa,"['drama', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",drama,113139,7,3.65
+2019-02-16,"As Above, So Below",2014,https://boxd.it/7yui,2.5,John Erick Dowdle,france,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,89931,7,3.15
+2019-02-16,V/H/S,2012,https://boxd.it/2Y1c,4.0,Joe Swanberg,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,50035,5,2.88
+2019-02-16,Hostel,2005,https://boxd.it/28ig,4.0,Eli Roth,czechia,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,75516,8,2.73
+2019-02-16,Halloween,2007,https://boxd.it/27u6,3.5,Rob Zombie,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,60445,7,2.73
+2019-02-16,Creep 2,2017,https://boxd.it/dSEO,3.5,Patrick Brice,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",horror,61446,6,3.37
+2019-02-16,Jeepers Creepers,2001,https://boxd.it/1ZAg,3.0,Victor Salva,germany,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,60005,5,3.05
+2019-02-16,Slither,2006,https://boxd.it/1Zks,3.0,James Gunn,canada,"['science-fiction', 'comedy', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",science-fiction,39564,7,3.29
+2019-02-16,The Devil's Rejects,2005,https://boxd.it/28hC,4.0,Rob Zombie,germany,"['crime', 'horror', 'drama']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",crime,42421,9,3.37
+2019-02-16,The Hills Have Eyes,2006,https://boxd.it/1XNC,3.5,Alexandre Aja,france,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",thriller,50215,1,3.04
+2019-02-16,Saw IV,2007,https://boxd.it/29Sa,3.0,Darren Lynn Bousman,canada,"['thriller', 'horror', 'crime']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",horror,67979,6,2.62
+2019-02-16,The Grudge,2004,https://boxd.it/27Jq,4.0,Takashi Shimizu,japan,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics']",mystery,52731,8,2.78
+2019-02-16,Children of the Corn,1984,https://boxd.it/1ViW,3.5,Fritz Kiersch,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",thriller,46510,4,2.75
+2019-02-16,Paranormal Activity 2,2010,https://boxd.it/ZnO,2.5,Tod Williams,usa,"['horror', 'mystery', 'fantasy']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,53177,4,2.55
+2019-02-16,V/H/S/2,2013,https://boxd.it/4Ysw,2.5,Eduardo Sanchez 2,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",thriller,31101,8,2.97
+2019-02-16,The Human Centipede (First Sequence),2009,https://boxd.it/18Tu,3.0,Tom Six 1,netherlands,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,53774,3,2.01
+2019-02-16,Housebound,2014,https://boxd.it/7qOk,2.5,Gerard Johnstone,new-zealand,"['horror', 'comedy', 'thriller']","['Horror, the undead and monster classics', 'Crude humor and satire']",comedy,20647,7,3.42
+2019-02-16,Rubber,2010,https://boxd.it/P2m,3.0,Quentin Dupieux,france,"['horror', 'mystery', 'comedy', 'fantasy', 'drama']","['Horror, the undead and monster classics', 'Crude humor and satire', 'Monsters, aliens, sci-fi and the apocalypse']",horror,31121,3,2.82
+2019-02-16,Saw V,2008,https://boxd.it/1SMa,2.5,David Hackl,canada,"['crime', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",crime,60035,2,2.56
+2019-02-16,John Dies at the End,2012,https://boxd.it/2BSW,2.0,Don Coscarelli,usa,"['horror', 'comedy']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Crude humor and satire']",comedy,19175,8,3.1
+2019-02-16,Snakes on a Plane,2006,https://boxd.it/2aAw,3.0,David R Ellis,usa,"['action', 'crime', 'thriller', 'horror']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics', 'Crude humor and satire']",action,48543,3,2.43
+2019-02-16,The Eyes of My Mother,2016,https://boxd.it/cTd8,5.0,Nicolas Pesce,usa,"['horror', 'drama']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,16918,8,3.37
+2019-02-16,The Crazies,2010,https://boxd.it/1nvW,3.5,Breck Eisner,usa,"['action', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",action,37149,7,2.99
+2019-02-16,House of Wax,2005,https://boxd.it/1XaU,3.0,Jaume Collet Serra,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,68969,6,2.87
+2019-02-16,Pontypool,2008,https://boxd.it/1yBw,3.0,Bruce Mcdonald 1,canada,"['science-fiction', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",mystery,22074,9,3.43
+2019-02-16,Saw 3D,2010,https://boxd.it/Znk,2.5,Kevin Greutert,canada,"['crime', 'horror']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",crime,51009,4,2.29
+2019-02-16,Cabin Fever,2002,https://boxd.it/1TAu,3.0,Eli Roth,usa,['horror'],"['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,33317,8,2.79
+2019-02-16,Saw VI,2009,https://boxd.it/1A2y,3.0,Kevin Greutert,australia,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",horror,54007,9,2.75
+2019-02-16,XX,2017,https://boxd.it/9pU6,4.0,Karyn Kusama,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,15601,6,2.36
+2019-02-16,A Serbian Film,2010,https://boxd.it/2wBc,2.5,Sran Spasojevic,serbia,"['crime', 'horror', 'thriller']",[],thriller,36937,2,2.05
+2019-02-17,The Sacrament,2013,https://boxd.it/6iEY,3.0,Ti West,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,14497,1,3.01
+2019-02-18,The Autopsy of Jane Doe,2016,https://boxd.it/dUu2,3.0,Andre Ovredal,uk,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,94714,5,3.25
+2019-03-26,Us,2019,https://boxd.it/gnV6,4.0,Jordan Peele,usa,"['horror', 'mystery', 'thriller']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",horror,662869,9,3.72
+2019-04-01,The Dirt,2019,https://boxd.it/aGN4,3.0,Jeff Tremaine,usa,"['history', 'drama', 'music', 'comedy']","['Humanity and the world around us', 'Song and dance', 'Underdogs and coming of age']",history,48655,3,3.09
+2019-04-01,The Dawn Wall,2017,https://boxd.it/hCP0,4.5,Josh Lowell 2,austria,"['documentary', 'adventure']",[],documentary,15000,10,3.99
+2019-04-01,Lady Bird,2017,https://boxd.it/dGNE,3.5,Greta Gerwig,usa,"['drama', 'comedy']","['Underdogs and coming of age', 'Moving relationship stories', 'Relationship comedy']",drama,880840,10,3.88
+2019-04-01,Jurassic World,2015,https://boxd.it/4n0g,3.0,Colin Trevorrow,usa,"['science-fiction', 'adventure', 'action', 'thriller']","['Monsters, aliens, sci-fi and the apocalypse', 'Epic heroes']",science-fiction,412473,4,3.01
+2019-04-01,Green Room,2015,https://boxd.it/a75m,3.5,Jeremy Saulnier,usa,"['crime', 'horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",crime,175248,9,3.7
+2019-04-01,Apostle,2018,https://boxd.it/f0so,3.5,Gareth Evans,usa,"['thriller', 'drama', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,56507,7,3.12
+2019-04-30,Friday the 13th,2009,https://boxd.it/1QAw,2.5,Marcus Nispel,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,61959,4,2.51
+2020-01-07,Marriage Story,2019,https://boxd.it/hJAw,3.0,Noah Baumbach,uk,['drama'],"['Moving relationship stories', 'Relationship comedy']",drama,599177,9,3.99
+2020-01-07,Star Wars: The Rise of Skywalker,2019,https://boxd.it/5xlK,4.0,Jj Abrams,usa,"['science-fiction', 'adventure', 'action']","['Epic heroes', 'Monsters, aliens, sci-fi and the apocalypse', 'Epic history and literature']",science-fiction,512760,2,2.55
+2020-01-07,It,2017,https://boxd.it/bC8e,4.0,Andy Muschietti,usa,"['horror', 'fantasy']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,684315,8,3.52
+2020-01-07,Raw,2016,https://boxd.it/dLd2,5.0,Julia Ducournau,belgium,"['horror', 'drama']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,194429,9,3.7
+2020-01-08,Free Solo,2018,https://boxd.it/iEEq,4.5,Elizabeth Chai Vasarhelyi,usa,"['adventure', 'documentary']","['Humanity and the world around us', 'Underdogs and coming of age']",adventure,98828,7,3.97
+2020-01-11,Casting JonBenet,2017,https://boxd.it/fgXM,3.5,Kitty Green,australia,"['documentary', 'crime']","['Politics and human rights', 'Humanity and the world around us', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",documentary,14638,8,3.24
+2020-01-26,Midsommar,2019,https://boxd.it/jhxe,4.5,Ari Aster,sweden,"['drama', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",drama,960980,7,3.84
+2020-02-24,Parasite,2019,https://boxd.it/hTha,5.0,Bong Joon Ho,south-korea,"['comedy', 'drama', 'thriller']","['Moving relationship stories', 'Intense violence and sexual transgression']",comedy,1397113,10,4.58
+2020-03-23,Ratatouille,2007,https://boxd.it/27ww,4.0,Brad Bird,usa,"['fantasy', 'family', 'comedy', 'animation']",['Relationship comedy'],fantasy,711009,10,4.15
+2020-05-09,The Lighthouse,2019,https://boxd.it/icFU,3.5,Robert Eggers,canada,"['thriller', 'fantasy', 'drama', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",thriller,565275,10,4.05
+2020-08-23,The Little Shop of Horrors,1960,https://boxd.it/1xDm,2.5,Roger Corman,usa,"['science-fiction', 'comedy', 'horror']","['Crude humor and satire', 'Horror, the undead and monster classics', 'Song and dance']",science-fiction,12583,5,3.11
+2020-09-09,Southbound,2015,https://boxd.it/bX3Y,4.0,Matt Bettinelli Olpin,usa,"['thriller', 'fantasy', 'science-fiction', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",thriller,16814,8,3.02
+2020-09-09,The Lodge,2019,https://boxd.it/h2c2,2.5,Veronika Franz,canada,"['thriller', 'drama', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,73920,4,3.18
+2020-12-20,The Queen's Gambit,2020,https://boxd.it/s1Ym,4.0,Scott Frank,usa,['drama'],"['Underdogs and coming of age', 'Moving relationship stories']",drama,331402,9,4.27
+2020-12-26,Soul,2020,https://boxd.it/ioLA,4.5,Pete Docter,usa,"['family', 'drama', 'comedy', 'animation', 'fantasy']",['Humanity and the world around us'],family,661499,9,4.02
+2020-12-27,Sound of Metal,2019,https://boxd.it/i7Q4,4.5,Darius Marder,usa,"['drama', 'music']","['Humanity and the world around us', 'Moving relationship stories']",drama,309897,10,4.13
+2021-02-06,Ma Rainey's Black Bottom,2020,https://boxd.it/mLcm,3.0,George C Wolfe,usa,"['drama', 'music']","['Song and dance', 'Humanity and the world around us', 'Politics and human rights']",drama,103336,7,3.51
+2021-02-06,Crawl,2019,https://boxd.it/iwYi,3.5,Alexandre Aja,canada,"['action', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",action,98273,7,2.97
+2021-02-12,A Quiet Place,2018,https://boxd.it/fVJQ,3.5,John Krasinski,usa,"['science-fiction', 'drama', 'horror']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",science-fiction,679281,6,3.71
+2021-03-05,Judas and the Black Messiah,2021,https://boxd.it/lsew,4.5,Shaka King,canada,"['drama', 'history']",['Politics and human rights'],history,191974,9,4.02
+2021-03-06,Nomadland,2020,https://boxd.it/lnRy,4.5,Chloe Zhao,usa,['drama'],"['Moving relationship stories', 'Humanity and the world around us', 'Politics and human rights']",drama,294156,9,3.84
+2021-03-12,There Will Be Blood,2007,https://boxd.it/20Z2,4.0,Paul Thomas Anderson,usa,['drama'],['Faith and religion'],drama,391459,4,4.39
+2021-03-16,The Handmaiden,2016,https://boxd.it/948A,4.0,Park Chan Wook,south-korea,"['romance', 'thriller', 'drama']","['Intense violence and sexual transgression', 'Thrillers and murder mysteries', 'Moving relationship stories']",romance,252860,10,4.37
+2021-03-21,Minari,2020,https://boxd.it/mL9M,4.5,Lee Isaac Chung,usa,['drama'],"['Moving relationship stories', 'Faith and religion']",drama,238998,9,4.08
+2021-04-12,Burning,2018,https://boxd.it/hHUa,5.0,Lee Chang Dong,south-korea,"['mystery', 'thriller', 'drama']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression', 'Moving relationship stories', 'Humanity and the world around us']",mystery,152213,8,3.99
+2021-05-01,I Saw the Devil,2010,https://boxd.it/FaK,3.5,Kim Jee Woon 2,south-korea,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",thriller,92010,10,3.97
+2021-05-21,Saw III,2006,https://boxd.it/2aRC,3.5,Darren Lynn Bousman,usa,"['crime', 'horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,89284,6,2.84
+2021-05-29,A Quiet Place Part II,2020,https://boxd.it/iTx0,4.0,John Krasinski,usa,"['thriller', 'science-fiction', 'horror']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",thriller,310976,8,3.56
+2021-06-07,The Conjuring: The Devil Made Me Do It,2021,https://boxd.it/eXZY,3.0,Michael Chaves,usa,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics']",mystery,177528,6,2.85
+2021-06-08,Bo Burnham: Inside,2021,https://boxd.it/v2uy,3.5,Bo Burnham,usa,"['comedy', 'drama']",[],comedy,267303,10,4.21
+2021-06-09,Memories of Murder,2003,https://boxd.it/1TSo,4.0,Bong Joon Ho,south-korea,"['crime', 'drama', 'thriller']",['Thrillers and murder mysteries'],crime,207295,10,4.3
+2021-06-10,Suspiria,2018,https://boxd.it/cioI,3.5,Luca Guadagnino,italy,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,198689,9,3.75
+2021-06-18,Dogtooth,2009,https://boxd.it/158K,3.5,Yorgos Lanthimos,greece,['drama'],"['Intense violence and sexual transgression', 'Faith and religion', 'Moving relationship stories']",drama,121097,7,3.78
+2021-06-21,Saint Maud,2019,https://boxd.it/l8QA,2.5,Rose Glass,uk,"['mystery', 'drama', 'horror']","['Faith and religion', 'Horror, the undead and monster classics', 'Intense violence and sexual transgression']",mystery,102731,9,3.54
+2021-07-08,State of Play,2009,https://boxd.it/1JnA,3.0,Kevin Macdonald 1,france,"['mystery', 'drama', 'thriller']","['Thrillers and murder mysteries', 'High speed and special ops', 'Politics and human rights']",mystery,26032,6,3.26
+2021-07-15,The Strange Thing About the Johnsons,2011,https://boxd.it/56nO,3.5,Ari Aster,usa,"['comedy', 'drama']","['Intense violence and sexual transgression', 'Horror, the undead and monster classics']",comedy,34540,6,3.31
+2021-07-16,A Classic Horror Story,2021,https://boxd.it/sRY4,2.5,Roberto De Feo,italy,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,32401,8,2.77
+2021-07-21,The Act of Killing,2012,https://boxd.it/44Cg,4.5,Joshua Oppenheimer,denmark,['documentary'],"['Politics and human rights', 'War and historical adventure']",documentary,47751,10,4.24
+2021-07-25,I Care a Lot,2020,https://boxd.it/mcHk,3.5,J Blakeson,uk,"['crime', 'comedy', 'thriller', 'drama']","['Crime, drugs and gangsters', 'High speed and special ops', 'Thrillers and murder mysteries']",crime,202527,7,3.13
+2021-07-26,Possessor,2020,https://boxd.it/fsJW,4.0,Brandon Cronenberg,australia,"['horror', 'science-fiction', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",horror,89110,8,3.62
+2021-07-28,Let the Right One In,2008,https://boxd.it/1Qr0,4.0,Tomas Alfredson,sweden,"['drama', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",drama,103174,10,4.0
+2021-07-31,The Lords of Salem,2012,https://boxd.it/3yDm,2.0,Rob Zombie,canada,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,22924,8,2.91
+2021-08-01,My Heart Can't Beat Unless You Tell It To,2020,https://boxd.it/pLFY,4.0,Jonathan Cuartas,usa,"['drama', 'horror']",[],drama,5313,8,3.34
+2021-08-02,Ju-on: The Grudge,2002,https://boxd.it/1SY6,4.5,Takashi Shimizu,japan,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,29655,8,3.35
+2021-08-04,Funny Games,1997,https://boxd.it/1WKM,3.5,Michael Haneke,austria,"['thriller', 'horror', 'drama']","['Intense violence and sexual transgression', 'Horror, the undead and monster classics']",thriller,99033,9,3.89
+2021-08-05,Lake Mungo,2008,https://boxd.it/1rWM,4.0,Joel Anderson,australia,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,41010,10,3.46
+2021-08-06,Onibaba,1964,https://boxd.it/252a,4.0,Kaneto Shindo 1,japan,"['drama', 'horror']","['Horror, the undead and monster classics', 'Epic history and literature', 'Intense violence and sexual transgression']",drama,25941,10,4.03
+2021-08-07,Pulse,2001,https://boxd.it/1s3y,4.0,Kiyoshi Kurosawa,japan,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",mystery,37579,10,3.65
+2021-08-15,The Descent,2005,https://boxd.it/1YNy,4.5,Neil Marshall,uk,"['adventure', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",adventure,120057,9,3.64
+2021-08-17,The Hills Have Eyes,1977,https://boxd.it/1Sa6,2.5,Wes Craven,usa,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,39706,8,3.13
+2021-08-20,Lights Out,2016,https://boxd.it/bAHc,3.5,David F Sandberg,usa,"['thriller', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,84554,4,2.78
+2021-08-21,Portrait of a Lady on Fire,2019,https://boxd.it/jkPq,5.0,Celine Sciamma,france,"['drama', 'romance']","['Moving relationship stories', 'Humanity and the world around us', 'Epic history and literature']",drama,367547,10,4.42
+2021-08-24,Alien,1979,https://boxd.it/2awY,4.5,Ridley Scott,usa,"['science-fiction', 'horror']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",science-fiction,490201,9,4.28
+2021-08-25,The Wicker Man,1973,https://boxd.it/1KnG,4.0,Robin Hardy,uk,['horror'],"['Faith and religion', 'Horror, the undead and monster classics']",horror,91561,8,3.89
+2021-08-28,No Country for Old Men,2007,https://boxd.it/21ew,4.5,Joel Coen,no-country-for-old-men,"['drama', 'thriller', 'crime']","['Westerns', 'Crime, drugs and gangsters', 'Thrillers and murder mysteries']",drama,553923,8,4.27
+2021-08-29,Tigers Are Not Afraid,2017,https://boxd.it/bIww,4.5,Issa Lopez,mexico,"['horror', 'fantasy', 'drama', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Crime, drugs and gangsters']",fantasy,16388,9,3.66
+2021-08-30,The Brood,1979,https://boxd.it/1ovS,3.5,David Cronenberg,canada,"['science-fiction', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",science-fiction,41709,8,3.58
+2021-09-10,A Tale of Two Sisters,2003,https://boxd.it/248m,4.5,Kim Jee Woon 2,south-korea,"['horror', 'drama', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,44233,8,3.66
+2021-09-14,Malignant,2021,https://boxd.it/mViE,3.0,James Wan,usa,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",mystery,188083,8,3.15
+2021-09-26,Prom Night,2008,https://boxd.it/201c,1.5,Nelson Mccormick,usa,"['drama', 'horror', 'crime']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",drama,14559,2,1.82
+2021-10-02,The Texas Chain Saw Massacre,1974,https://boxd.it/1lcS,4.0,Tobe Hooper,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,222011,10,3.9
+2021-10-03,Titane,2021,https://boxd.it/nlQC,4.0,Julia Ducournau,belgium,"['horror', 'drama', 'thriller']","['Intense violence and sexual transgression', 'Horror, the undead and monster classics']",horror,178139,10,3.66
+2021-10-04,The Invisible Man,2020,https://boxd.it/kWlA,4.0,Leigh Whannell,australia,"['horror', 'science-fiction', 'thriller']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",horror,326514,8,3.52
+2021-10-06,The Empty Man,2020,https://boxd.it/iIWS,3.5,David Prior,france,"['mystery', 'thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse', 'Thrillers and murder mysteries']",mystery,46889,8,3.24
+2021-10-13,V/H/S/94,2021,https://boxd.it/shhy,3.0,Simon Barrett,indonesia,['horror'],"['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,23821,8,2.91
+2021-10-16,The Medium,2021,https://boxd.it/s0oi,3.5,Banjong Pisanthanakun,south-korea,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,19401,7,3.36
+2021-10-16,Ringu,1998,https://boxd.it/26tw,4.0,Hideo Nakata,japan,"['thriller', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,57841,7,3.57
+2021-10-18,Trick 'r Treat,2007,https://boxd.it/1zvE,4.0,Michael Dougherty,usa,"['horror', 'comedy']","['Horror, the undead and monster classics']",horror,73236,10,3.58
+2021-10-19,Hellraiser,1987,https://boxd.it/1Zpi,4.5,Clive Barker,uk,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,115523,9,3.54
+2021-10-22,Noroi: The Curse,2005,https://boxd.it/1BN6,4.5,Koji Shiraishi 1,japan,"['thriller', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,22481,10,3.69
+2021-10-23,The Wailing,2016,https://boxd.it/9fLy,5.0,Na Hong Jin,south-korea,"['mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",mystery,89327,9,3.92
+2021-10-29,High Life,2018,https://boxd.it/d6bk,2.5,Claire Denis,france,"['mystery', 'drama', 'science-fiction']","['Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",mystery,89158,6,3.26
+2021-11-01,Kandisha,2020,https://boxd.it/mqtG,2.5,Alexandre Bustillo 1,france,['horror'],[],horror,2248,5,2.91
+2021-11-03,The Return of the Living Dead,1985,https://boxd.it/1V3W,3.5,Dan Obannon,usa,"['comedy', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Crude humor and satire']",comedy,44540,10,3.85
+2021-11-10,Caveat,2020,https://boxd.it/rX5M,3.5,Damian Mc Carthy,ireland,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,10056,4,3.21
+2021-11-17,Mother,2009,https://boxd.it/1m9g,4.0,Bong Joon Ho,south-korea,"['crime', 'mystery', 'drama', 'thriller']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression', 'Crime, drugs and gangsters']",crime,78264,9,4.06
+2021-11-22,The Terror Within,1989,https://boxd.it/1nGK,2.0,Thierry Notz,usa,"['science-fiction', 'horror']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",science-fiction,1187,6,2.43
+2021-11-22,The Terror Within II,1991,https://boxd.it/3XwU,1.5,Andrew Stevens 1,usa,"['science-fiction', 'horror']",[],science-fiction,335,7,2.39
+2021-11-22,Deathstalker,1983,https://boxd.it/1Lhu,1.0,James Sbardellati,argentina,"['action', 'fantasy']","['Epic heroes', 'Epic history and literature']",action,3543,5,2.24
+2021-11-23,The Lobster,2015,https://boxd.it/7tnw,4.0,Yorgos Lanthimos,france,"['drama', 'romance', 'comedy']","['Relationship comedy', 'Humanity and the world around us', 'Intense violence and sexual transgression', 'Crude humor and satire']",drama,372068,9,3.78
+2021-11-24,Her,2013,https://boxd.it/4O24,4.0,Spike Jonze,usa,"['romance', 'science-fiction', 'drama']","['Relationship comedy', 'Moving relationship stories', 'Humanity and the world around us']",romance,716613,9,4.04
+2021-11-26,Harry Potter and the Chamber of Secrets,2002,https://boxd.it/29QI,3.5,Chris Columbus,uk,"['adventure', 'fantasy']",['Epic heroes'],adventure,509799,8,3.62
+2021-12-16,Natural Born Killers,1994,https://boxd.it/2aNg,3.0,Oliver Stone,usa,"['drama', 'crime', 'thriller']","['Intense violence and sexual transgression', 'Crime, drugs and gangsters', 'Politics and human rights']",drama,107035,8,3.53
+2021-12-17,Les Misérables,2012,https://boxd.it/2TT4,1.5,Tom Hooper,uk,"['drama', 'history']",['Song and dance'],drama,195907,2,3.53
+2021-12-26,The Nine Lives of Christmas,2014,https://boxd.it/9vBY,3.5,Mark Jean,,"['drama', 'romance', 'tv-movie', 'comedy']","['Relationship comedy', 'Underdogs and coming of age']",drama,931,7,3.07
+2021-12-28,Don't Look Up,2021,https://boxd.it/o0Hc,2.5,Adam Mckay,usa,"['drama', 'science-fiction', 'comedy']","['Politics and human rights', 'Crude humor and satire', 'Monsters, aliens, sci-fi and the apocalypse']",drama,730141,5,3.13
+2021-12-31,Licorice Pizza,2021,https://boxd.it/qTKY,3.0,Paul Thomas Anderson,canada,"['comedy', 'drama']","['Relationship comedy', 'Underdogs and coming of age', 'Song and dance']",comedy,328690,9,3.7
+2022-01-02,Censor,2021,https://boxd.it/oHFS,3.5,Prano Bailey Bond,uk,"['horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,44686,7,3.24
+2022-01-03,Gaia,2021,https://boxd.it/tWfq,3.0,Jaco Bouwer,south-africa,"['horror', 'fantasy', 'drama']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,7526,6,2.99
+2022-01-04,Punch-Drunk Love,2002,https://boxd.it/20E4,2.5,Paul Thomas Anderson,usa,"['drama', 'comedy', 'romance']",['Relationship comedy'],drama,219727,10,3.96
+2022-01-14,I Know What You Did Last Summer,1997,https://boxd.it/2588,3.0,Jim Gillespie,usa,"['thriller', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Thrillers and murder mysteries']",thriller,88296,7,2.9
+2022-01-15,The Alpinist,2021,https://boxd.it/psEM,4.5,Peter Mortimer,austria,['documentary'],"['Humanity and the world around us', 'Faith and religion', 'Underdogs and coming of age']",documentary,15127,3,3.82
+2022-01-16,Kwaidan,1964,https://boxd.it/1kbY,4.0,Masaki Kobayashi,japan,"['fantasy', 'drama', 'horror']","['Horror, the undead and monster classics', 'Epic history and literature']",fantasy,21076,10,4.14
+2022-01-20,Creep,2014,https://boxd.it/7l4c,4.0,Patrick Brice,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,118775,9,3.38
+2022-01-21,Terrified,2017,https://boxd.it/hCyy,3.0,Demian Rugna,argentina,['horror'],"['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",horror,18527,7,3.23
+2022-01-23,The Host,2006,https://boxd.it/28ZY,3.5,Bong Joon Ho,south-korea,"['science-fiction', 'horror', 'drama']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",science-fiction,133666,9,3.71
+2022-01-25,You Won't Be Alone,2022,https://boxd.it/xjIG,3.5,Goran Stolevski,australia,"['history', 'horror', 'thriller', 'drama']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",history,9540,6,3.58
+2022-01-27,House,1977,https://boxd.it/1vsm,4.0,Nobuhiko Obayashi 2,japan,"['comedy', 'fantasy', 'horror']","['Horror, the undead and monster classics']",comedy,109449,10,4.0
+2022-01-28,Hellbound: Hellraiser II,1988,https://boxd.it/1ZfW,3.5,Tony Randel,uk,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,36930,8,3.26
+2022-01-31,Suspiria,1977,https://boxd.it/1SNW,4.0,Dario Argento,italy,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,185894,10,3.96
+2022-02-04,The Thing,1982,https://boxd.it/294O,4.5,John Carpenter,usa,"['science-fiction', 'horror', 'mystery']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",science-fiction,332141,10,4.32
+2022-02-05,Diabolique,1955,https://boxd.it/29we,4.0,Henri Georges Clouzot,france,"['horror', 'thriller', 'drama']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression', 'Horror, the undead and monster classics']",horror,37042,7,4.08
+2022-02-20,The Texas Chainsaw Massacre,2003,https://boxd.it/1YQs,2.5,Marcus Nispel,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,48214,5,2.91
+2022-02-23,Texas Chainsaw Massacre,2022,https://boxd.it/ns6c,1.5,David Blue Garcia,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,106616,3,1.99
+2022-03-05,Hellbender,2021,https://boxd.it/w1Im,3.0,Toby Poser,usa,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,10180,8,3.22
+2022-03-12,Fresh,2022,https://boxd.it/tCNi,3.0,Mimi Cave,usa,"['horror', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,224323,8,3.52
+2022-03-12,The Killing of a Sacred Deer,2017,https://boxd.it/dZ5G,4.0,Yorgos Lanthimos,uk,"['mystery', 'thriller', 'drama']","['Intense violence and sexual transgression', 'Horror, the undead and monster classics']",mystery,272286,9,3.75
+2022-03-19,Hereditary,2018,https://boxd.it/hNVe,4.5,Ari Aster,usa,"['thriller', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",thriller,683098,8,4.01
+2022-03-21,The Secret in Their Eyes,2009,https://boxd.it/1vWw,4.5,Juan Jose Campanella 1,argentina,"['crime', 'mystery', 'drama']",['Thrillers and murder mysteries'],crime,51764,8,4.13
+2022-03-24,Jackass Forever,2022,https://boxd.it/opUg,4.0,Jeff Tremaine,usa,"['comedy', 'documentary']","['Crude humor and satire', 'Underdogs and coming of age', 'Relationship comedy']",comedy,105840,7,3.77
+2022-03-24,Turning Red,2022,https://boxd.it/ipkq,4.0,Domee Shi,usa,"['fantasy', 'comedy', 'family', 'animation']",['Underdogs and coming of age'],fantasy,379475,8,3.77
+2022-03-27,Drive My Car,2021,https://boxd.it/sv94,4.0,Ryusuke Hamaguchi,japan,['drama'],"['Moving relationship stories', 'Humanity and the world around us']",drama,164076,9,4.14
+2022-04-04,The Master,2012,https://boxd.it/2cBG,3.5,Paul Thomas Anderson,usa,['drama'],"['Faith and religion', 'Humanity and the world around us']",drama,211225,8,3.97
+2022-04-04,The Evil Dead,1981,https://boxd.it/29Go,4.0,Sam Raimi,usa,['horror'],"['Horror, the undead and monster classics']",horror,194871,9,3.72
+2022-04-17,The Night House,2020,https://boxd.it/jZze,3.0,David Bruckner 2,uk,"['horror', 'drama', 'mystery', 'thriller']","['Horror, the undead and monster classics', 'Thrillers and murder mysteries', 'Intense violence and sexual transgression']",horror,83313,7,3.43
+2022-04-19,The Batman,2022,https://boxd.it/eDGs,4.0,Matt Reeves,usa,"['mystery', 'thriller', 'crime']","['Thrillers and murder mysteries', 'High speed and special ops', 'Crime, drugs and gangsters', 'Epic heroes']",mystery,971264,8,4.09
+2022-04-21,Train to Busan,2016,https://boxd.it/dSQU,3.5,Yeon Sang Ho,south-korea,"['action', 'thriller', 'science-fiction', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse']",thriller,327241,7,3.94
+2022-04-26,Evil Dead II,1987,https://boxd.it/29Ge,4.0,Sam Raimi,usa,"['fantasy', 'comedy', 'horror']","['Horror, the undead and monster classics', 'Crude humor and satire']",fantasy,147127,10,4.05
+2022-05-02,Tickled,2016,https://boxd.it/cWEG,3.5,David Farrier,new-zealand,['documentary'],"['Politics and human rights', 'Underdogs and coming of age', 'Intense violence and sexual transgression']",documentary,32461,9,3.72
+2022-05-11,Taxi Driver,1976,https://boxd.it/2b8y,3.5,Martin Scorsese,usa,"['drama', 'crime']","['Politics and human rights', 'Crime, drugs and gangsters', 'Intense violence and sexual transgression']",drama,599128,10,4.21
+2022-05-13,The Departed,2006,https://boxd.it/28MA,4.5,Martin Scorsese,usa,"['thriller', 'drama', 'crime']","['Crime, drugs and gangsters', 'Thrillers and murder mysteries']",thriller,444351,8,4.2
+2022-05-15,Moneyball,2011,https://boxd.it/glS,3.0,Bennett Miller,usa,['drama'],['Underdogs and coming of age'],drama,224918,8,3.81
+2022-05-20,Army of Darkness,1992,https://boxd.it/29G4,4.0,Sam Raimi,usa,"['horror', 'fantasy', 'comedy']","['Horror, the undead and monster classics', 'Epic heroes', 'Crude humor and satire', 'Monsters, aliens, sci-fi and the apocalypse']",horror,110346,9,3.74
+2022-05-22,Prisoners,2013,https://boxd.it/4E5i,4.5,Denis Villeneuve,usa,"['drama', 'crime', 'thriller']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression']",drama,457295,10,4.21
+2022-05-29,The Found Footage Phenomenon,2021,https://boxd.it/uxyY,3.0,Phillip Escott,usa,['documentary'],[],documentary,1873,6,3.16
+2022-06-02,X,2022,https://boxd.it/sxVa,3.5,Ti West,usa,"['horror', 'mystery', 'thriller']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,216304,8,3.55
+2022-06-04,Crimes of the Future,2022,https://boxd.it/uTuY,3.5,David Cronenberg,canada,"['horror', 'drama', 'science-fiction']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",horror,73850,8,3.37
+2022-06-07,Nightmare Alley,2021,https://boxd.it/m0HC,2.0,Guillermo Del Toro,usa,"['crime', 'thriller', 'drama']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression']",crime,223902,6,3.48
+2022-06-13,Arrival,2016,https://boxd.it/aNGk,3.5,Denis Villeneuve,usa,"['drama', 'science-fiction', 'mystery']","['Monsters, aliens, sci-fi and the apocalypse']",drama,749864,10,4.07
+2022-06-15,We Need to Talk About Kevin,2011,https://boxd.it/2pTS,4.0,Lynne Ramsay,uk,"['thriller', 'drama']","['Intense violence and sexual transgression', 'Moving relationship stories']",thriller,190881,8,3.85
+2022-06-26,The Other Guys,2010,https://boxd.it/1rtq,3.0,Adam Mckay,usa,"['comedy', 'crime', 'action']","['Crude humor and satire', 'Relationship comedy']",comedy,130844,8,3.21
+2022-06-29,After Yang,2021,https://boxd.it/lx5a,3.5,Kogonada,usa,"['drama', 'science-fiction']","['Moving relationship stories', 'Humanity and the world around us', 'Monsters, aliens, sci-fi and the apocalypse']",drama,48912,9,3.87
+2022-07-04,The Godfather: Part II,1974,https://boxd.it/2aNq,4.5,Francis Ford Coppola,usa,"['drama', 'crime']","['Politics and human rights', 'Epic history and literature', 'Crime, drugs and gangsters']",drama,357512,10,4.53
+2022-07-07,The Babadook,2014,https://boxd.it/77xu,4.0,Jennifer Kent,australia,"['horror', 'drama']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,255735,7,3.45
+2022-07-08,Videodrome,1983,https://boxd.it/29uC,4.5,David Cronenberg,canada,"['science-fiction', 'horror', 'mystery']","['Horror, the undead and monster classics', 'Intense violence and sexual transgression', 'Monsters, aliens, sci-fi and the apocalypse']",science-fiction,120379,10,3.86
+2022-07-09,Sympathy for Mr. Vengeance,2002,https://boxd.it/23WU,4.0,Park Chan Wook,south-korea,"['thriller', 'drama', 'action']","['Intense violence and sexual transgression', 'Crime, drugs and gangsters']",thriller,52057,9,3.86
+2022-07-10,Oldboy,2003,https://boxd.it/29R2,4.5,Park Chan Wook,south-korea,"['drama', 'action', 'mystery', 'thriller']",['Intense violence and sexual transgression'],drama,323234,10,4.31
+2022-07-14,Sympathy for Lady Vengeance,2005,https://boxd.it/248G,4.5,Park Chan Wook,south-korea,"['drama', 'thriller']","['Intense violence and sexual transgression', 'Crime, drugs and gangsters', 'Thrillers and murder mysteries']",drama,63499,9,3.93
+2022-07-20,Incantation,2022,https://boxd.it/wFiI,3.0,Kevin Ko,taiwan,['horror'],"['Horror, the undead and monster classics', 'Intense violence and sexual transgression']",horror,32775,6,3.1
+2022-07-22,Nope,2022,https://boxd.it/sDCe,4.0,Jordan Peele,usa,"['thriller', 'mystery', 'science-fiction', 'horror']","['Monsters, aliens, sci-fi and the apocalypse', 'Horror, the undead and monster classics']",thriller,278443,10,3.96
+2022-08-06,Prey,2022,https://boxd.it/sNBU,4.0,Dan Trachtenberg,usa,"['horror', 'science-fiction', 'action']",[],horror,171995,7,3.66
+2022-08-09,Antlers,2021,https://boxd.it/iI50,2.0,Scott Cooper,canada,"['drama', 'mystery', 'horror']","['Horror, the undead and monster classics', 'Monsters, aliens, sci-fi and the apocalypse', 'Intense violence and sexual transgression']",drama,50859,4,2.75
+2022-08-22,Everything Everywhere All at Once,2022,https://boxd.it/jUk4,4.0,Daniel Scheinert,usa,"['adventure', 'action', 'science-fiction']","['Relationship comedy', 'Epic heroes']",adventure,614295,10,4.48
+2022-08-22,Gone Girl,2014,https://boxd.it/6hQu,4.0,David Fincher,usa,"['drama', 'thriller', 'mystery']","['Thrillers and murder mysteries', 'Intense violence and sexual transgression']",drama,836385,10,4.06
+2022-08-23,Death Proof,2007,https://boxd.it/27GG,4.0,Quentin Tarantino,usa,"['thriller', 'action']","['Horror, the undead and monster classics', 'High speed and special ops']",thriller,162219,10,3.49
+2022-08-25,Moloch,2022,https://boxd.it/AdVg,3.0,Nico Van Den Brink,netherlands,['horror'],[],horror,2491,6,3.19
